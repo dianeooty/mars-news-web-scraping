@@ -1,5 +1,5 @@
 # html-challenge
-> This is my Module 11 Challenge for my Data Visualization and Analytics Boot Camp. I was tasked with completing the web-scraping and data analysis for the Mars News Articles and Mars Weather Data.
+> This is my Module 11 Challenge for my Data Visualization and Analytics Boot Camp where I utilized web scraping to extract, transform and load data. Then complete data analyses for the Mars News Articles and Mars Weather Data.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -12,9 +12,9 @@
 
 
 ## General Information
-For Part 1 of the challenge, I had to scrape the scrape the data from the Mars News Site to extract the titles and previews for each article. Then store the data as a Python dictionary and export to a JSON file.
+For Part 1 of the challenge, web scraping was completed using Splinter and BeautifulSoup for the Mars News Site. The titles and previews for each article was extracted and stored as a dictionary which was then exported as a JSON file.
 
-For Part 2 fo the challenge, I used automated browsing to scrape and analyze the Mars Weather Site.  I extracted the table and converted the data to a Pandas DataFrame.  From the dataframe, I analyzed the data for to compare Martian days/months to Earth and created plots to reflect the average minimum temperatures and average pressure.
+For Part 2 fo the challenge, automated browsing was used to scrape the data from the Mars Weather Site.  The table's header and rows were extracted into Python objects and then converted to a DataFrame using Pandas.  Data analysis was completed from the DataFrame, comparing Martian to Terrestrial days/months/years. Using Pandas plot to reflect the average minimum temperatures and average pressures as a visual guide to answering the questions.
 
 
 ## Technologies Used
@@ -35,13 +35,13 @@ For Part 2 fo the challenge, I used automated browsing to scrape and analyze the
 
 
 ## Setup
-The Mars Weather Data in csv format can be found in the output_data folder.  The following urls were used for this challenge:
+The Mars Weather Data in csv format and the Mars News Artical in JSON format can be found in the output_data folder.  The following urls were used for this challenge:
 https://static.bc-edx.com/data/web/mars_news/index.html
 https://static.bc-edx.com/data/web/mars_facts/temperature.html
 
 
 ## Project Status
-Project is in progress.
+Project is complete and no longer being worked on.
 
 
 ## Acknowledgements
