@@ -1,5 +1,5 @@
 # html-challenge
-> This is my Module 11 Challenge for my Data Visualization and Analytics Boot Camp where I utilized web scraping to extract, transform and load data. Then complete data analyses for the Mars News Articles and Mars Weather Data.
+> This is my Module 11 Challenge for my Data Visualization and Analytics Boot Camp where I utilized web scraping to parse the data and complete data analyses for the Mars News Articles and Mars Weather Data sites.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -12,9 +12,9 @@
 
 
 ## General Information
-For Part 1 of the challenge, web scraping was completed using Splinter and BeautifulSoup for the Mars News Site. The titles and previews for each article was extracted and stored as a dictionary which was then exported as a JSON file.
+For Part 1 of the challenge, web scraping was completed using Splinter and BeautifulSoup for the Mars News Site. The titles and previews for each article was extracted, stored as a Python dictionary and then exported as a JSON file.
 
-For Part 2 fo the challenge, automated browsing was used to scrape the data from the Mars Weather Site.  The table's header and rows were extracted into Python objects and then converted to a DataFrame using Pandas.  Data analysis was completed from the DataFrame, comparing Martian to Terrestrial days/months/years. Using Pandas plot to reflect the average minimum temperatures and average pressures as a visual guide to answering the questions.
+For Part 2 fo the challenge, automated browsing was used to scrape the data from the Mars Weather Site.  The table's header and rows were extracted into Python objects and then converted to a DataFrame using Pandas.  Data analysis was completed from the DataFrame, comparing Martian to Terrestrial days/months/years using Pandas plot to reflect the average minimum temperatures and average pressures as a visual guide to answering the challenge questions.
 
 
 ## Technologies Used
