@@ -1,5 +1,5 @@
-# html-challenge
-> This is my Module 11 Challenge for my Data Visualization and Analytics Boot Camp where I utilized web scraping to parse the data and complete data analyses for the Mars News Articles and Mars Weather Data sites.
+# mars-news-web-scraping
+> T I utilized web scraping to parse the Mars News data and complete data analyses for the Mars News Articles and Mars Weather Data sites.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -45,7 +45,7 @@ Project is complete and no longer being worked on.
 
 
 ## Acknowledgements
-- Many thanks to my instructional staff and tutor, David Chao.
+- Many thanks to my instructional staff and David Chao.
 
 
 ## Contact
