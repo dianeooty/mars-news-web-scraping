@@ -1,5 +1,5 @@
 # mars-news-web-scraping
-> T I utilized web scraping to parse the Mars News data and complete data analyses for the Mars News Articles and Mars Weather Data sites.
+> I utilized web scraping to parse the Mars News data and complete data analyses for the Mars News Articles and Mars Weather Data sites.
 
 ## Table of Contents
 * [General Info](#general-information)
